@@ -331,7 +331,7 @@ public enum VaadinIcon implements IconFactory {
     FORM,
     FORWARD,
     FROWN_O,
-    FUNCION,
+    FUNCTION,
     FUNNEL,
     GAMEPAD,
     GAVEL,
